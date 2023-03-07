@@ -28,7 +28,7 @@ app.post('/api/postman/people', (req, res) => {
   if (!name) {
     return res
       .status(400)
-      .json({ success: false, msg: 'please provide name value' })
+      .json({ success: false, msg: 'pleasdde provide name value' })
   }
   res.status(201).json({ success: true, data: [...people, name] })
 })
