@@ -1,0 +1,21 @@
+Create new repositery in github.com
+
+downloading git in git-scm.com and install
+
+open command propmt type git to check if it's install
+
+open file in vscode and in command propmt type git init
+
+and type git status for check git worlks properly (find the files and folder)
+
+then type (git add .) to add to the file in git
+
+copy the text on the git(git remote add oriigin https://github.com/crownz3/repositery name)
+
+and run the above command
+
+finally type (git push -u origin main)
+
+git remote remove origin -> Remove existing origin
+
+Have Fun!!!!
